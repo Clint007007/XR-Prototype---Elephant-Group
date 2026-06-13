@@ -13,6 +13,12 @@ an elephant approaches. The player must respond correctly to de-escalate the
 encounter, modeling a culturally grounded interaction informed by Damara 
 community practices.
 
+## How to Run
+1. Open the project in Unity (built/tested in Unity 6).
+2. Open the `MainScene` and `StartScreen` scenes (both under `Assets/Scenes`).
+3. Ensure both scenes are added to Build Settings, with `StartScreen` at index 0.
+4. Press Play from the `StartScreen` scene.
+
 ## Controls (current prototype)
 - **Space** – Start / Restart
 - **Q** – Incorrect response (attack outcome)
